@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+---
+
+<img align="left" alt="Imbeacon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imbeacon&show_icons=true&theme=transparent&hide_border=true" />
+
+<br />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imbeacon&layout=compact&theme=transparent)](https://github.com/imbeacon/imbeacon)
 <!--
 **imbeacon/imbeacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
