@@ -3,7 +3,7 @@
 
 ---
 
-<img align="left" alt="Imbeacon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imbeacon&show_icons=true&theme=transparent&hide_border=true" />
+<img align="left" alt="Imbeacon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imbeacon&show_icons=true&theme=transparent&hide_border=true&show=reviews,prs_merged&hide=stars" />
 
 <br />
 
