@@ -8,7 +8,7 @@
 <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imbeacon&layout=compact&theme=transparent)](https://github.com/imbeacon/imbeacon)
+![imbeacon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=imbeacon&theme=transparent&hide_border=true)
 <!--
 **imbeacon/imbeacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
